@@ -1,0 +1,16 @@
+.copy_right_footer {
+    bottom: 0px;
+    position: fixed;
+    background-color: white;
+    font-size: 30px;
+    width: 100%;
+    line-height: 4.5;
+}
+
+.heading {
+    font-size: 50px !important;
+}
+
+body {
+    background-image: url("background.jpg");
+}
