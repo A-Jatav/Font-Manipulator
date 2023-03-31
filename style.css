@@ -2,15 +2,20 @@
     bottom: 0px;
     position: fixed;
     background-color: white;
-    font-size: 30px;
+    font-size: 20px;
     width: 100%;
-    line-height: 4.5;
+    line-height: 5;
 }
 
 .heading {
-    font-size: 50px !important;
+    font-size: 25px !important;
 }
 
 body {
     background-image: url("background.jpg");
+}
+
+canvas {
+    border: 10px solid;
+    background-color: white;
 }
